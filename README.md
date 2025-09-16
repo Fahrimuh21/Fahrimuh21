@@ -1,8 +1,6 @@
 ### 👋 Hi there, I'm Fahri!  
 
-Saya mahasiswa **Informatika Semester 3 di Universitas Diponegoro** yang memiliki minat besar di bidang **pemrograman, pengembangan web, dan sistem terintegrasi**.  
-
-💡 Saya percaya bahwa belajar bukan hanya tentang teori, tetapi juga praktik nyata dalam membangun proyek yang bermanfaat.  
+Saya mahasiswa **Informatika Semester 3 di Universitas Diponegoro** yang memiliki minat besar di bidang **pemrograman, pengembangan web, dan sistem terintegrasi**. saya juga sangat tertarik dengan dunia Back End Golang Developer.
 
 ---
 
@@ -24,14 +22,17 @@ Saya mahasiswa **Informatika Semester 3 di Universitas Diponegoro** yang memilik
 >
 > ### 🛠️ Languages & Tools
 
+### 🛠️ Languages & Tools  
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style="width:10%; min-width:40px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" style="width:10%; min-width:40px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" style="width:10%; min-width:40px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" style="width:10%; min-width:40px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" style="width:10%; min-width:40px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" style="width:10%; min-width:40px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" style="width:10%; min-width:40px; height:auto;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" style="width:10%; min-width:40px; height:auto;"/>
 </p>
+
 
