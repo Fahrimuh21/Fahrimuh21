@@ -18,7 +18,7 @@ Saya mahasiswa **Informatika Semester 3 di Universitas Diponegoro** yang memilik
 ---
 
 ### 🌱 Fun Fact
-> *Saya suka memecahkan masalah dengan logika sederhana, ngopi sambil ngoding, dan selalu penasaran dengan teknologi baru.*
+> *Saya suka turu dan ga suka kopi*
 >
 > ### 🛠️ Languages & Tools
 
