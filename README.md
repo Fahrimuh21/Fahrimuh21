@@ -6,7 +6,7 @@ Saya mahasiswa **Informatika Semester 3 di Universitas Diponegoro** yang memilik
 
 ### 🔧 Keahlian & Teknologi
 - **Languages:** JavaScript, Go (Golang), PHP  
-- **Frameworks:** React, Laravel  
+- **Frameworks:** Laravel, Gin 
 - **Web:** HTML5, CSS3  
 - **Tools & Collaboration:** Git, GitHub  
 
