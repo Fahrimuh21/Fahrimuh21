@@ -1,28 +1,22 @@
-### 👋 Hi there, I'm Fahri!  
+### Hi there, I'm Fahri!  
 
 Saya mahasiswa **Informatika Semester 3 di Universitas Diponegoro** yang memiliki minat besar di bidang **pemrograman, pengembangan web, dan sistem terintegrasi**. saya juga sangat tertarik dengan dunia Back End Golang Developer.
 
 ---
 
-### 🔧 Keahlian & Teknologi
+###Keahlian & Teknologi
 - **Languages:** JavaScript, Go (Golang), PHP  
 - **Frameworks:** Laravel, Gin 
 - **Web:** HTML5, CSS3  
 - **Tools & Collaboration:** Git, GitHub  
 
 ---
-
-### 🎯 Fokus Saat Ini
-- Meningkatkan pemahaman **Backend Development** dengan Golang & PHP  
-- Membuat aplikasi berbasis **React & Laravel**  
----
-
-### 🌱 Fun Fact
+### Fun Fact
 > *Saya suka turu dan ga suka kopi*
 >
-> ### 🛠️ Languages & Tools
+> ### Languages & Tools
 
-### 🛠️ Languages & Tools  
+### Languages & Tools  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style="width:10%; min-width:40px; height:auto;"/>
