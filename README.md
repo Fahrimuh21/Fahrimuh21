@@ -4,7 +4,7 @@ Saya mahasiswa **Informatika Semester 3 di Universitas Diponegoro** yang memilik
 
 ---
 
-###Keahlian & Teknologi
+### Keahlian & Teknologi
 - **Languages:** JavaScript, Go (Golang), PHP  
 - **Frameworks:** Laravel, Gin 
 - **Web:** HTML5, CSS3  
